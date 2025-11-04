@@ -34,7 +34,7 @@ A detailed breakdown showing medal counts by country and medal type (Gold, Silve
 
 ## 🖼️ Preview
 
-
+![2014 Olympics Dashboard](2014_Olympics_Dashboard.png)
 
 ## 💾 How to Use
 
