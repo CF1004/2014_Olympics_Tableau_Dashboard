@@ -1,7 +1,7 @@
 # 🥇 2014 Winter Olympics — Interactive Tableau Dashboard
 
-An interactive Tableau dashboard visualizing medal results from the 2014 Winter Olympics.
-The dashboard combines multiple visual components — a symbol map, athlete details table, sex ratio bar, and country medal summary — into one cohesive, dynamic interface.
+An interactive **Tableau dashboard** visualizing *medal results from the 2014 Winter Olympics*.
+The dashboard combines multiple visual components — a *symbol map*, *athlete details table*, *sex ratio bars*, and *country medal summary* — into one cohesive, dynamic interface.
 
 ## 🎯 Overview
 
