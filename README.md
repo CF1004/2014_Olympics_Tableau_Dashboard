@@ -36,7 +36,8 @@ A detailed breakdown showing medal counts by country and medal type (Gold, Silve
 
 ![2014 Olympics Dashboard](2014_Olympics_Dashboard.png)
 
-## 💾 How to Use
+## 💾 How to Use  
 
-- Download the .twbx file included in this repository.
-- Open it in Tableau Public (free version available at public.tableau.com
+1. Download the `.twbx` file included in this repository.  
+2. Open it in **Tableau Public** (free version available at [public.tableau.com](https://www.tableau.com/community/public)).  
+3. Interact with the bubbles and Athlete Names to explore the dasboard yourself. 
